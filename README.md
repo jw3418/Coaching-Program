@@ -48,14 +48,14 @@
 
 ### Total Number of Web Articles Collected
 
-27,211 건
+- 27,211 건
 
 <br>
 <br>
 
 ### Data Time Range
 
-2003-4-19 - 2023-8-19 (약 20년)
+- 2003-4-19 - 2023-8-19 (약 20년)
 
 <br>
 <br>
